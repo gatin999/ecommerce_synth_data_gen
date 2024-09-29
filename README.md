@@ -1,9 +1,9 @@
 Overview
 This project is designed to generate synthetic eCommerce data for testing fraud detection algorithms, machine learning models, or analytical environments. It simulates real-world eCommerce transactions, customer behavior, product purchases, payment information, and other related datasets. The generated data can be used for:
-
 Testing fraud detection systems.
 Simulating customer purchase behavior.
 Creating analytical datasets for machine learning and data science experiments.
+
 Features
 Customer Data: Simulates customer profiles, including names, email addresses, account creation dates, billing and shipping addresses, and engagement behavior.
 Product Data: Includes product details like product names, categories, prices, and suppliers.
