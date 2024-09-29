@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+ENV/
+.ENV/
+
+# Data files (if you are generating any data files in your project)
+*.csv
+*.parquet
+*.json
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings (optional, only if you're using VSCode)
+.vscode/
+
+# macOS specific files
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Docker-related files (optional, in case you use Docker)
+docker-compose.override.yml
+*.env
